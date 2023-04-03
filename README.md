@@ -1,4 +1,4 @@
 # GM-VAE
 Implementing Variational Auto-Encoder (VAE)
 
-I have used MNIST dataset for this implementation
+MNIST dataset has been used for this implementation
